@@ -1,0 +1,6 @@
+test:
+  ttl: 604800
+  namespace: mcache
+  sessions: false
+  debug: true
+  servers: localhost:11211
